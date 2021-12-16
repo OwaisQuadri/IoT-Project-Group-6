@@ -1,4 +1,4 @@
-# ThermoCheck | IoT-Project-Group-6
+# ThermoCheck (IoT-Project-Group-6)
 Submission for Design and Analysis of IoT Group Project by Group 6: Owais Quadri, Raveenth Maheswaran, and Sabesan Sivakumar.
 ### Table of Contents
 1. <a href="#1">Description</a>
