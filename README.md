@@ -13,4 +13,6 @@ we have included our source code for the:
 The report files inculded in this repository are:
 1. IoT Project Report.pdf
 2. README.md
-3. 
+3. Archichectural Diagram.pdf
+4. Sequence Diagram.pdf
+5. Test Cases.pdf
