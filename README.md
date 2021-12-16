@@ -8,7 +8,7 @@ The Application can be accessed from www.thermocheck.xyz, and the API can be acc
 we have included our source code for the:
 1. Front-End PHP/HTML/CSS code deployed using Digital Ocean onto www.thermocheck.xyz
 2. Back-End Python Django API deployed on Heroku
-3. "Adruino Code" to send Temperature and Humidity data to the API after measuring from the sensor.  
+3. "Arduino Code" to send Temperature and Humidity data to the API after measuring from the temperature sensor.  
   
 ## Report Files  
 The report files inculded in this repository are:
