@@ -11,4 +11,6 @@ we have included our source code for the:
   
 ## Report Files  
 The report files inculded in this repository are:
-1. 
+1. IoT Project Report.pdf
+2. README.md
+3. 
